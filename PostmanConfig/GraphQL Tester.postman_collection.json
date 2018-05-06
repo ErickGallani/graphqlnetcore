@@ -1,0 +1,23 @@
+{
+	"info": {
+		"name": "GraphQL Tester",
+		"_postman_id": "28afd7cf-49d4-3d0f-9fa6-8ac78847e3c6",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/api/graphql",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
